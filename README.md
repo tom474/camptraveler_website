@@ -1,1 +1,1 @@
-Technology: JavaScript, TypeScript, ReactJS, Tailwind CSS
+Technology: JavaScript, TypeScript, ReactJS, NextJS, Tailwind CSS
